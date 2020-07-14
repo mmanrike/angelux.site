@@ -28,7 +28,7 @@ twitter_username: angelux
 github_username:  mmanrike
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
