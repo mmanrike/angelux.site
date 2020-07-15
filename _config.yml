@@ -11,28 +11,28 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Miguel Manrique - Paternidad con Tecnología y Cultura Pop"
+title                    : #"Angelux Blog"
 title_separator          : "-"
-subtitle                 : "Beta" # site tagline that appears below site title in masthead
+subtitle                 : "Paternidad con Tecnología y Cultura Pop" # site tagline that appears below site title in masthead
 name                     : "Miguel Manrique"
 description              : "SOy Miguel Manrique, (aka. ex elangelux.com.ar), blogguero desde el 2006 ahora convertido en padre, sigo con mi pasión por la tecnología y disfruto mucho con contenidos relacionados a la cultura pop (películas, libros, series, fotografía, etc)"
 url                      : https://mmanrike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "mmanrike/mmanrike.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "angelux" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -51,9 +51,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : "lunr" # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -94,51 +94,51 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Manrique"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "https://avatars2.githubusercontent.com/u/68176284?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Administrador, Ingeniero de Sistemas, Padre, Geek de profesión y de corazón. Creador de contenidos a la vieja escuela."
+  location         : "Lima - Perú"
   email            : angelux@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:angelux@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://angelux.site"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/angelux"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "http://facebook.com/mmanriqueag"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mmanrike"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/angeluxpe"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/angelux"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/mmanrike"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+      # url: "https://github.com/mmanrike"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/angeluxpe"
 
 
 # Reading Files
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
