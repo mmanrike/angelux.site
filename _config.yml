@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "es-ES"
 title                    : #"Angelux Blog"
 title_separator          : "-"
-subtitle                 : "Paternidad con Tecnología y Cultura Pop" # site tagline that appears below site title in masthead
+subtitle                 : "Paternidad, Tecnología y Cultura Pop" # site tagline that appears below site title in masthead
 name                     : "Miguel Manrique"
 description              : "SOy Miguel Manrique, (aka. ex elangelux.com.ar), blogguero desde el 2006 ahora convertido en padre, sigo con mi pasión por la tecnología y disfruto mucho con contenidos relacionados a la cultura pop (películas, libros, series, fotografía, etc)"
 url                      : https://mmanrike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Miguel Manrique"
   avatar           : "https://avatars2.githubusercontent.com/u/68176284?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Administrador, Ingeniero de Sistemas, Padre, Geek de profesión y de corazón. Creador de contenidos a la vieja escuela."
+  bio              : "Administrador, Ingeniero de Sistemas, Padre, Geek de profesión y de corazón. Creador de contenidos de la vieja escuela."
   location         : "Lima - Perú"
   email            : angelux@gmail.com
   links:
