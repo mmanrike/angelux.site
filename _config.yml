@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : #"Angelux Blog"
+title                    : "Angelux Blog"
 title_separator          : "-"
 subtitle                 : "Paternidad, Tecnología y Cultura Pop" # site tagline that appears below site title in masthead
 name                     : "Miguel Manrique"
