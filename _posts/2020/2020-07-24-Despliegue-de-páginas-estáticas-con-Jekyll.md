@@ -2,7 +2,7 @@
 title: Despliegue de páginas estáticas con Jekyll
 date:  2020-07-23T00:00:51+00:00
 layout: single
-permalink: /post/despliegue-de-paginas-estáticas-con-jekyll
+permalink: /post/despliegue-de-paginas-estaticas-con-jekyll
 excerpt: "Siguiendo con el tema Jekyll y los blogs, entender la lógica de funcionamiento de Jekyll"
 header:
     overlay_color: "#333"
