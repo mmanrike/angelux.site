@@ -15,7 +15,6 @@ tags:
     - jekyllrb
     - cms
     - jekyll
-comments: true
 ---
 
 # Despliegue de páginas estáticas con Jekyll
