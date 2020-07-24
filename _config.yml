@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Paternidad, Tecnología y Cultura Pop" # site tagline that appears below site title in masthead
 name                     : "Miguel Manrique"
 description              : "SOy Miguel Manrique, (aka. ex elangelux.com.ar), blogguero desde el 2006 ahora convertido en padre, sigo con mi pasión por la tecnología y disfruto mucho con contenidos relacionados a la cultura pop (películas, libros, series, fotografía, etc)"
-url                      : https://mmanrike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.angelux.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "mmanrike/mmanrike.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
