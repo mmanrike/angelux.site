@@ -59,6 +59,6 @@ Una vez instalado Jekyll localmente:
 
 6. Los archivos planos en [HTML] están listos para ser visualizados desde cualquier navegador del mundo.
 
-7. Para hacerlo se tiene que ingresar a `htttps://tunombredeusuario.github.io`.
+7. Para hacerlo se tiene que ingresar a `https://tunombredeusuario.github.io`.
 
 Este tema da para más por que luego se puede configurar un dominio personalizado e incluso un hosting especializado. Y porsupuesto añadir mas funciones como son los comentarios, temas, formularios, etc. Pero entendiendo lo básico se puede seguir.
