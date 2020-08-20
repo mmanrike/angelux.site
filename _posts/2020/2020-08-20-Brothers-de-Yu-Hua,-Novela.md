@@ -3,7 +3,7 @@ title: Brothers de Yu Hua, Novela.
 date:  2020-08-20T00:00:51+00:00
 layout: single
 permalink: /post/brothers-yu-hua
-excerpt: "En tiempos de cuarentena toda lectura es bienvenida, tenemos autores para descubrir y me pasó con esta novela titulada Brothers (Incluso en español) del autor  chino Yu Hua, el nombre no dice mucho o mejor si, por hermanos pero solo describe que la historia va sobre unos hermanos, pero con la descripción vamos descubriendo un poco sobre la trama"
+excerpt: "En tiempos de cuarentena toda lectura es bienvenida, tenemos autores para descubrir y me pasó con esta novela titulada Brothers (Incluso en español) del autor  chino Yu Hua, el nombre no dice mucho o mejor si, por hermanos pero solo describe que la historia va sobre unos hermanos, pero con la descripción vamos descubriendo un poco sobre la trama."
 header:
     overlay_color: "#333"
     teaser: /assets/images/20/brothers_yu_hua.jpg
