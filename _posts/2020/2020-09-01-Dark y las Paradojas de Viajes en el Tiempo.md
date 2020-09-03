@@ -5,7 +5,7 @@ layout: single
 permalink: /post/dark-paradojas-viajes-en-el-tiempo
 excerpt: "Como todo geek, uno de los temas que más me apasionan son lo de los viajes en el tiempo, hay mucha literatura, comics, series y películas que  tratan del tema, existen por lo tanto diferentes formas de tratar el tema, sin embargo la mayoría de ellos comparten algo en común:  la forma de cómo evitan quedar atrapados a las paradojas que se producirían durante estos viajes especialmente la llamada Paradoja del abuelo."
 header:
-    teaser: /assets/images/20/dark_infinito .jpg
+    teaser: /assets/images/20/dark_infinito.jpg
 categories: 
     - Series
 tags:
