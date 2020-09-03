@@ -54,7 +54,7 @@ Entonces tenemos el MMS + HCl + Agua = CDS
 
 En el interín y por  la ciencia de la química, efectivamente mezclando el MMS (NaClO2) con HCl se obtiene un concentrado de dióxido de cloro que luego son nuevamente diluidos en agua (Tienen su fórmula para lograr a la calidad ideal). Sin embargo lo que en realidad lo que se obtiene es un tipo de agua potabilizada con dióxido de cloro con un poco de sal común (Cloruro de sodio), es decir todo un proceso para lograr lo que mas o menos es agua potable que sale del caño mezclado con un poco de sal. Recordemos que la homeopatía se basa en diluir aun más y más, o sea agua. En el siguiente video a través de la química se demuestra lo que pasa realmente:
 
-[![Explicación científica del dióxido de cloro](http://img.youtube.com/vi/iQEzyxg11t0/0.jpg)](http://www.youtube.com/watch?v=iQEzyxg11t0 "Explicación científica del dióxido de cloro")
+[![Explicación científica del dióxido de cloro](http://img.youtube.com/vi/iQEzyxg11t0/0.jpg)](https://www.youtube.com/watch?v=iQEzyxg11t0 "Explicación científica del dióxido de cloro")
 
 #### ¿Por qué no mata el dióxido de cloro?
 
